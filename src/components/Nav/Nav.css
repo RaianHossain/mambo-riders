@@ -1,0 +1,18 @@
+.nav-main-div nav ul li{
+    list-style:none;
+    float: left;
+    margin-right: 10px;
+    padding:10px
+    
+}
+.nav-main-div{
+    display:flex;
+    justify-content: space-between;
+}
+#login-btn{
+    border-radius:5px;
+    background-color: #e65c00;
+}
+#login-color{
+    color:white;
+}
